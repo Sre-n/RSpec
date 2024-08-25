@@ -17,3 +17,6 @@ types of test
 unit --individual unit,tested in isolation- easy to write and run fast, in ones own small island
 integration --couple of classes or feature
 e2e--end2end or acceptance start to end--hard slow--complete code all together
+
+
+red green refactor
